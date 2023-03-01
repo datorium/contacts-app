@@ -1,6 +1,6 @@
 # Contacts app developed with Python
 
-This is a simple contacts management app written in Python programming language.
+This is a simple **contacts management app** written in Python programming language.
 
 To develop this app we have used the following programming elements:
 
@@ -23,4 +23,5 @@ def AddContact():
         'email': email
     }
 
-    contacts.append(contact)```
+    contacts.append(contact)
+```
